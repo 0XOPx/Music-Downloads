@@ -12,4 +12,4 @@
 
 <a href="https://oxop.newgrounds.com">Newgrounds</a>
 
-<small>All tracks here are commercial use, you can download them, BUT because of CC License, credit me</small>
+<small>All tracks here are commercial use, you can download them, BUT because of CC License, you need to credit me</small>
