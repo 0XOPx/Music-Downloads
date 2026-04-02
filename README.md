@@ -2,6 +2,6 @@
 
 # Game Loop 1 Downloads
 
-* <a href="Game Loop 1.ogg">OGG</a>
+* <a href="Game Loop 1.ogg" download>OGG</a>
 
-* <a href="Game Loop 1.mp3">MP3</a>
+* <a href="Game Loop 1.mp3" download>MP3</a>
