@@ -15,3 +15,11 @@
 <small>All tracks here are commercial use, you can download them, BUT because of <b>CC BY-SA</b>, you need to credit me</small>
 
 <small><b>Website made with Markdown + Jekyll (GitHub Pages checks for markdown if it's the main and uses Jekyll if it is)</small></b>
+
+### How to Credit
+
+Please use the following in your credits:
+
+> Music by OXOP (https://oxop.newgrounds.com/) 
+
+> Licensed under CC BY-SA 4.0
